@@ -1,3 +1,3 @@
-<center> Hui Hui </center>
+# Hui Hui
 
 Our submission to SIH 23.
